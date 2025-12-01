@@ -1,6 +1,6 @@
 # 🕯 Windows Night Light CLI
 
-A command line tool to set Windows Night Light and/or change monitor brightness.
+A command line tool to enable/disable Windows Night Light, change its intensity and/or change your monitor brigthness.
 
 > ⭐ stars to the repo help improve my dev career!
 
